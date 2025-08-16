@@ -8,7 +8,7 @@
   
 - 👀 I’m interested in coding.
 
-- 😎 Skills: HTML, CSS, JAVASCRIPT, PHP, MYSQL (WEB DEVELOPMENT), PYTHON, C, C++, C#, JAVA (programming languages).
+- 😎 Skills: HTML, CSS, JAVASCRIPT, PHP, MYSQL (WEB DEVELOPMENT), PYTHON, C, C++,JAVA (programming languages).
   
 - 📫 Reach me through emails: susanta.company4@gmail.com
 
