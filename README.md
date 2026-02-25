@@ -1,9 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently a student <br>🌱 Branch:  👨‍💻 AI and Data Science <br>🎓 Techno College of Engineering Agartala &  IIT Jodhpur (Dual Degree)<br>💬 Ask me about<br>👀 I’m interested in coding<br>⚡ Fun fact: The amount of calories we burn while running is less then that we burn with coding 
 
-### 🔥 Latest Research:
+## 🔥 Latest Research:
 
-**Research Badges**: <br>
 [![IJSR Publication](https://img.shields.io/badge/IJSR-MR251206000138-blueviolet.svg?logo=doi)](https://dx.doi.org/10.21275/MR251206000138)
 
 **IJSR Publication (Dec 2025)**: Emergent Social Consciousness in a Minimalist Conversational Agent: A Case Study on Jarvis - Observations from a Custom-Built Artificial Intelligence System" <br> 
