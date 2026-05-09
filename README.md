@@ -4,7 +4,7 @@
 ## 🔥 Latest Research:
 
 [![IJSR Publication](https://img.shields.io/badge/IJSR-MR251206000138-blueviolet.svg?logo=doi)](https://dx.doi.org/10.21275/MR251206000138)  
-[![ResearchGate](https://img.shields.io/badge/ResearchGate%20Preprint-blue?style=for-the-badge&logo=doi)](https://doi.org/10.13140/RG.2.2.12547.05921)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate%20Preprint-blueviolet.svg?logo=doi)](https://doi.org/10.13140/RG.2.2.12547.05921)
 
  1. **IJSR Publication (Dec 2025)**: Emergent Social Consciousness in a Minimalist Conversational Agent: A Case Study on Jarvis - Observations from a Custom-Built Artificial Intelligence System" <br> 
 
