@@ -15,6 +15,11 @@
 
   2. **ResearchGate Preprint**: Jarvis-v9: A Continual-Learning Synthetic AGI with Biologically-Inspired Generative Architecture, Persistent Memory, and Nine Cognitive Engines <br>
 
+## 🔥 Invention:
+
+   **QNME-omega**: A specialized engine named as Quantum Neurogenic Memorphic Engine-omega, which is a tool once imported in any AI code, can train huge number of datasets without any melting of CPU and RAM and even training becomes smoother with CPU only specs also. It is developed with a vision so that anyone can train any dataset even if they lacks hardware, it does not promises that it can train 50-60 lakhs data within a second but never freezes or causes any oom issue. 
+   It not only trains but also helps to run any AI code or with huge parameters within a basic laptop. <br>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/susanta-banik) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:susanta.company4@gmail.com) 
 
