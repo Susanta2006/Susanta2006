@@ -37,5 +37,5 @@
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Susanta2006.Susanta2006" alt="Visitor Count" height="100" width="100"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Susanta2006.Susanta2006" alt="Visitor Count" height="50" width="100"/>
 </p>
