@@ -28,7 +28,7 @@
 
 # 📊 GitHub Stats:
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Susanta2006&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=great-gatsby)](https://github-stats-extended.vercel.app/api?username=Susanta2006&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=great-gatsby)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Susanta2006&langs_count=5&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=Susanta2006&langs_count=5&theme=dark_github)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Susanta2006&layout=donut&langs_count=5&theme=blue_navy)](https://github-stats-extended.vercel.app/api/top-langs?username=Susanta2006&layout=donut&langs_count=5&theme=blue_navy)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
