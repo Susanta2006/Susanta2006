@@ -34,7 +34,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
+
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Susanta2006.Susanta2006" alt="Visitor Count" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Susanta2006.Susanta2006" alt="Visitor Count" height="35" />
 </p>
+---
